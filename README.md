@@ -21,7 +21,7 @@
 
 ###Code book
 Everything about variables stays the same as "features-info.txt". The method of estimation was also included in the name of variable, such as "-mean()-" and "-std()-"
-The Group was the result of **interaction(ActivityVector, Subject)**. So "STANDING.1" means the data was collected in the state that subject 1 was standing. 
+The Group was the result of *interaction(ActivityVector, Subject)*. So "STANDING.1" means the data was collected in the state that subject 1 was standing. 
 
 
 
